@@ -9,6 +9,7 @@ This script provides watching build mode for an external tool such as Chrome Ext
 
 Create a React app.
 
+Download the watch.js file.
 Put the script into `scripts/watch.js`.
 
 Add `watch` task into the scripts block in `package.json` as follows:
